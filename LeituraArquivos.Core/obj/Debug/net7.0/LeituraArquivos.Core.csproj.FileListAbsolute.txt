@@ -1,0 +1,12 @@
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\bin\Debug\net7.0\LeituraArquivos.Core.deps.json
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\bin\Debug\net7.0\LeituraArquivos.Core.dll
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\bin\Debug\net7.0\LeituraArquivos.Core.pdb
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.csproj.AssemblyReference.cache
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.AssemblyInfoInputs.cache
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.AssemblyInfo.cs
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.dll
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\refint\LeituraArquivos.Core.dll
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\LeituraArquivos.Core.pdb
+C:\Users\Newsgps3\Documents\Pessoal\MeusProjetos\LeituraDeArquivos\LeituraArquivos.Core\obj\Debug\net7.0\ref\LeituraArquivos.Core.dll
